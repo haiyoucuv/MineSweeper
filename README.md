@@ -13,13 +13,12 @@ step3:Open the corresponding project to add source and resource files;
 step4:Compile and test!
 
 
-#《扫雷》
-使用 Cocos2d-x(C++) 3.17.1 版本制作的《扫雷》
-
+# 《扫雷》
+使用 Cocos2d-x(C++) 3.17.1 版制作的的《扫雷》
 使用 Cocos2d-x 的 3.17.1 版本
 使用 C++ 语言
 
-step1: 新建 Cocos2d-x 项目;
+step1: 新建cocos2d-x项目;
 
 step2: 替换整个 Classes 目录和整个 Resources 目录;
 
